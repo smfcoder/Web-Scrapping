@@ -19,4 +19,4 @@
    3) Then follow the steps as mentioned in using python file.<br>
 
 <h3>Screenshots</h3>
-![image](https://user-images.githubusercontent.com/42066122/111739066-6aa4ca80-88a8-11eb-8b7e-04977930aae4.png)
+<img src="https://user-images.githubusercontent.com/42066122/111739066-6aa4ca80-88a8-11eb-8b7e-04977930aae4.png"></img>
