@@ -18,5 +18,6 @@
    2) Open the folder and click on scrap.exe file.<br>
    3) Then follow the steps as mentioned in using python file.<br>
 
-<h3>Screenshots</h3>
+# Screenshots
 <img src="https://user-images.githubusercontent.com/42066122/111739066-6aa4ca80-88a8-11eb-8b7e-04977930aae4.png"></img>
+<img src="https://user-images.githubusercontent.com/42066122/111739417-059da480-88a9-11eb-81b4-bd27cd02071d.png"></img>
